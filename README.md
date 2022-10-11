@@ -27,7 +27,7 @@ A Wi-Fi enabled laptop.
 * Agenda - starts at 2:00 PM and goes to 6:00 PM.
 * How to register - Follow [This Link to register](https://forms.gle/ZBBEuGbti944rKfF8)
 * Costs - event free
-* Event home page - (Laguna - Hacktoberfest)[https://barbatanasvoadoras.github.io/laguna-hacktoberfest/]
+* Event home page - [barbatanasvoadoras.github.io/laguna-hacktoberfest](https://barbatanasvoadoras.github.io/laguna-hacktoberfest/)
 
 ### Contact Info
 [Livraria Coruja Buraqueira](https://instagram.com/livrariacorujaburaqueira)
