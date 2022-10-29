@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# Laguna-hacktoberfest
 ## Laguna edition of Hacktoberfest event
 
 29th October of 2022 (@livrariacorujaburaqueira - Laguna - SC - Brazil) 2pm - 6pm
