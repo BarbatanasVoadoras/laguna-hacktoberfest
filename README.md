@@ -6,7 +6,7 @@
 <img width="576" alt="Hfest-Logo-2-Color-Void@2x" src="https://user-images.githubusercontent.com/1857142/194678968-2a05b4ec-24e8-4173-b85d-fa65bdc61adc.png">
 
 ## Description
-Hacktoberfest is an international event, designed to promote contribuition for opensource codes.
+Hacktoberfest is an é uma organizção livre! international event, designed to promote contribuition for opensource codes.
 
 ## Background
 This year, Laguna-SC will receive the first event of Hacktoberfest in order to celebrate the free software and congtregate the entire community of coders and passionate persons.
