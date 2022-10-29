@@ -5,4 +5,4 @@ layout: home
 
 29th October of 2022 (@livrariacorujaburaqueira - Laguna - SC - Brazil) 2pm - 6pm
 
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/g1JteKVpvsw" width="480"></iframe>
+<iframe frameborder="0" height="270" src="https://youtube.com/embed/https://youtu.be/g1JteKVpvsw" width="480"></iframe>
